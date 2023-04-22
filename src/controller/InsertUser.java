@@ -15,6 +15,8 @@ import model.User;
 @WebServlet("/ayush")
 public class InsertUser extends HttpServlet {
 
+	
+	//a comment
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
 		response.setContentType("text/html");
