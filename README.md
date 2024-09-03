@@ -1,5 +1,4 @@
-##Hibernate
-
+# Hibernate
 * Hibernate ORM
     - _core/Basic_: simple comparison between JDBC, ORM, and JPA
     - _core/Fetching Strategies_: "when" (laziness) and "how" (fetch style)
